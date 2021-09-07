@@ -4,3 +4,4 @@
 
 This Is Nihon's Config Repo Contains Config.json For Holding Data
 I Mainly Just Store Stuff Here Check The Badges Above For Some Of The Info
+Will Be Used And Updated In The Future Rn It's Not Really Used Yet
